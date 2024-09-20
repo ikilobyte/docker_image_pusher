@@ -8,4 +8,9 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 alpine/socat 
+# ente
+# --platform=linux/arm64 alpine/socat 
+--platform=linux/arm64 postgres:15
+--platform=linux/arm64 minio/minio
+--platform=linux/arm64 minio/mc
+
