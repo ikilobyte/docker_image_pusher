@@ -15,5 +15,12 @@
 # --platform=linux/arm64 minio/mc
 # --platform=linux/arm64 golang:1.21-alpine3.17
 # --platform=linux/arm64 alpine:3.17
---platform=linux/arm64 ghcr.io/ente-io/server
+# --platform=linux/arm64 ghcr.io/ente-io/server
+
+
+# ente 最新版 for 2025.6.28
+ghcr.io/ente-io/server
+ghcr.io/ente-io/web
+postgres:15
+minio/minio
 
