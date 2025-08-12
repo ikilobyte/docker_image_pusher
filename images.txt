@@ -19,8 +19,10 @@
 
 
 # ente 最新版 for 2025.6.28
-ghcr.io/ente-io/server
-ghcr.io/ente-io/web
-postgres:15
-minio/minio
+#ghcr.io/ente-io/server
+#ghcr.io/ente-io/web
+#postgres:15
+# minio/minio
 
+
+easychen/cookiecloud:latest
